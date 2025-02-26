@@ -1,5 +1,5 @@
 # DashBoard Power BI
-Creation of DashBoard with presentation of data on employee data from fictitious data.
+Creation of DashBoard with the presentation of data on employee data from fictitious data.
 
 ## 📌 Features:
 
@@ -20,11 +20,11 @@ This project was developed with the following technologies:
 
 ## Clone this repository
 
-git clone https://github.com/capricelima/Relatorio_detalhado_Power_BI.git
+git clone https://github.com/capricelima/Dashboard_Power_BI.git
 
 ## Enter the directory
 
-cd Relatorio_detalhado_Power_BI
+cd Dashboard_Power_BI
 
 ## 📝 License
 This project is unlicensed and is free to use.
